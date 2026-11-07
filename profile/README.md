@@ -19,8 +19,8 @@
 
 | Project | Description | Status |
 |--------|-------------|--------|
-| [NexTech Reverberated](https://github.com/Archons-Acclaimed-Accursed-Atheneum/NexTech-Reverberated) | GT:RN's official unofficial Java coremod. () | 🚧 In Development or maybe not, I might be lying >:D|
-| [Shattered Radial Menu](https://github.com/Archons-Acclaimed-Accursed-Atheneum/Shattered-Radial-Menu) | A GTA5-style weapon wheel for 1.20.1 and 1.21.1. Auto-detects weapons from TaCZ and Superb Warfare so you never have to open your inventory mid-combat again
+| [NexTech Reverberated](https://github.com/Archons-Acclaimed-Accursed-Atheneum/NexTech-Reverberated) | GT:RN's official unofficial Java coremod. | 🚧 In Development or maybe not, I might be lying >:D|
+| [Shattered Radial Menu](https://github.com/Archons-Acclaimed-Accursed-Atheneum/Shattered-Radial-Menu) | A GTA5-style weapon wheel for 1.20.1 and 1.21.1. Auto-detects weapons from TaCZ and Superb Warfare so you never have to open your inventory mid-combat again | Cooked, finished, eviscerated. Next question
 
 ---
 
