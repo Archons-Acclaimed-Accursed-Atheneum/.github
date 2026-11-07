@@ -11,7 +11,7 @@
 | Project | Description | Status |
 |--------|-------------|--------|
 | [Mekanized World: ReCreated](https://github.com/Archons-Acclaimed-Accursed-Atheneum/Mekanized-World-ReCreated) | The reincarnation of the world's greatest toddler slop. Create, Mekanism, NuclearCraft, Ars Nouveau and friends, rebuilt by the same toddler, slightly older, work in progress neckbeard. | 🚧 In Development |
-| [GregTech: Reverberating Nexus](https://github.com/Archons-Acclaimed-Accursed-Atheneum/Gregtech-Reverberating-Nexus) | The haagen-daz od modpacks. tastes good at the end but melts away before you can finish it.  | 🚧 In Development |
+| [GregTech: Reverberating Nexus](https://github.com/Archons-Acclaimed-Accursed-Atheneum/Gregtech-Reverberating-Nexus) | The Haagen-Daz of modpacks. tastes good at the end but melts away before you can finish it.  | 🚧 In Development |
 
 ---
 
