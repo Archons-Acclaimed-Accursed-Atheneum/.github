@@ -1,4 +1,4 @@
-# Welcome toArchon's Acclaimed Accursed Atheneum
+# Welcome to Archon's Acclaimed Accursed Atheneum
 ### The creative empire of Nexian Archonite, sustained by spite and Monster Energy
 
 
